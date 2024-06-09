@@ -1,4 +1,4 @@
-# informania
+# INFORMANIA
 er11-7.github.io/informania
 # Data Analyst
 
