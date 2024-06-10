@@ -20,7 +20,7 @@ B.Tech Electronics and Communication Engineering | Rajagiri School of Engineerin
  - Analyzed data in Excel from three carbon mitigation pilot activities to determine which strategy should be expanded across SuperCo's locations.
  - Developed a concise PowerPoint deck for SuperCo outlining the recommended approach.
 
- **Quantium, Data Analytics [June 2024]**
+ **Quantium, Data Analytics (_June 2024_)**
  - Prepared transaction datasets for customer analytics using SQL and data manipulation techniques.
  - Generated data-driven commercial recommendations by extracting actionable insights from customer data using Python and R.
  - Identified benchmark stores for A/B testing of trial store layouts.
