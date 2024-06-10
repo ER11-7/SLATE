@@ -1,5 +1,3 @@
-# INFORMANIA
-er11-7.github.io/informania
 # Data Analyst
 
 ## Technical Skills: Python, SQL, R, Power BI, IBM Cognos Analytics, Google Looker Studio, MATLAB, Alteryx
