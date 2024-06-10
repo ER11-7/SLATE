@@ -1,6 +1,6 @@
 # Data Analyst
 
-## Technical Skills:
+## Technical Skills
 Python, SQL, R, Power BI, IBM Cognos Analytics, Google Looker Studio, MATLAB, Alteryx
 
 # Education
