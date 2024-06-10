@@ -1,6 +1,7 @@
 # Data Analyst
 
-## Technical Skills: Python, SQL, R, Power BI, IBM Cognos Analytics, Google Looker Studio, MATLAB, Alteryx
+## Technical Skills:
+Python, SQL, R, Power BI, IBM Cognos Analytics, Google Looker Studio, MATLAB, Alteryx
 
 # Education
 B.Tech Electronics and Communication Engineering | Rajagiri School of Engineering and Technology, Kochi (_August 2018- June 2022_)
