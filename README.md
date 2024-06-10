@@ -1,4 +1,7 @@
-# Data Analyst
+# Welcome to my Data Analytics Portfolio
+
+# Hi, I'm Emil Roby!
+I am a data analytics enthusiast with a passion for transforming data into actionable insights. Here you can find some of the projects I've worked on and get to know more about my skills and experience.
 
 ## Technical Skills
 Python, SQL, R, Power BI, IBM Cognos Analytics, Google Looker Studio, MATLAB, Alteryx
@@ -8,7 +11,7 @@ B.Tech Electronics and Communication Engineering | Rajagiri School of Engineerin
 
 # Hands on Experience
 ## Job Simulation
-
+I have done job simulations in some top comapnies through Forage:
  **Accenture, Data Analytics and Visualization (_June 2024_)**
  - Executed a simulated project advising a hypothetical social media client as a Data Analyst at Accenture.
  - Performed data cleaning, modeling, and analysis on 7 datasets to uncover insights into content trends to inform strategic decisions.
@@ -24,3 +27,8 @@ B.Tech Electronics and Communication Engineering | Rajagiri School of Engineerin
  - Generated data-driven commercial recommendations by extracting actionable insights from customer data using Python and R.
  - Identified benchmark stores for A/B testing of trial store layouts.
  - Created comprehensive reports informing strategic decisions for the Category Manager, leveraging data analysis skills.
+
+# Feel free to reach out to me:
+- 📧 **Email**: [emilroby9@gmail.com](mailto:emilroby9@gmail.com)
+- 🔗 **LinkedIn**: [Emil Roby's LinkedIn](https://www.linkedin.com/in/emil-roby-869798203/)
+- 📞 **Phone**: +91 8301826142
