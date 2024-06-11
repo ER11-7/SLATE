@@ -40,6 +40,8 @@ Recommended strategy for user using data analysis
  - Identified benchmark stores for A/B testing of trial store layouts.
  - Created comprehensive reports informing strategic decisions for the Category Manager, leveraging data analysis skills.
 
+![Screenshot 2](assets/Distribution_of_sales_and_customer_in_pretrial.png)
+Sales distribution during pretrial
 
 # Education
 B.Tech Electronics and Communication Engineering | Rajagiri School of Engineering and Technology, Kochi (_August 2018- June 2022_)
