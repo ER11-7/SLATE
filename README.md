@@ -35,7 +35,7 @@ I have done job simulations in some top comapnies through Forage:
  - Developed a concise PowerPoint deck for SuperCo outlining the recommended approach.
 
 #### Recommended user strategy for carbon mitigation based on analysis
-![Screenshot 1](assets/Screenshot_BCG_Suggested_strategy_for_user.png)
+![Screenshot 1](assets/Suggested_strategy_for_user.png)
 
  **Quantium, Data Analytics (_June 2024_)**
  - Prepared transaction datasets for customer analytics using SQL and data manipulation techniques.
