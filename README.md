@@ -1,7 +1,7 @@
 # Welcome to my Data Analytics Portfolio
 
 # Hi, I'm Emil Roby!
-I am a data analytics enthusiast with a passion for transforming data into actionable insights. In this repository, you'll find a collection of my data analysis projects showcasing my skills and expertise in data manipulation, visualization, and interpretation.
+A QA Engineer turned data analytics enthusiast, with a passion for transforming data into actionable insights. In this repository, you'll find a collection of my data analysis projects showcasing my skills and expertise in data manipulation, visualization, and interpretation.
 
 ## Skills
 **Languages**
@@ -16,9 +16,6 @@ I am a data analytics enthusiast with a passion for transforming data into actio
 - Data Cleaning and Preparation
 - Exploratory Data Analysis
 - Data Visualization
-
-# Education
-B.Tech Electronics and Communication Engineering | Rajagiri School of Engineering and Technology, Kochi (_August 2018- June 2022_)
 
 # Hands on Experience
 ## Job Simulation
@@ -42,6 +39,9 @@ Recommended strategy for user using data analysis
  - Generated data-driven commercial recommendations by extracting actionable insights from customer data using Python and R.
  - Identified benchmark stores for A/B testing of trial store layouts.
  - Created comprehensive reports informing strategic decisions for the Category Manager, leveraging data analysis skills.
+
+# Education
+B.Tech Electronics and Communication Engineering | Rajagiri School of Engineering and Technology, Kochi (_August 2018- June 2022_)
 
 # Feel free to reach out to me:
 - 📧 **Email**: [emilroby9@gmail.com](mailto:emilroby9@gmail.com)
