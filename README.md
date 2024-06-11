@@ -40,7 +40,7 @@ Recommended strategy for user using data analysis
  - Identified benchmark stores for A/B testing of trial store layouts.
  - Created comprehensive reports informing strategic decisions for the Category Manager, leveraging data analysis skills.
 
-[Project Report Pdf](codes/Task-2  Quantium Upliftment testing.pdf)
+[Project Report Pdf](codes/Task2_Quantium_Upliftment_testing.pdf)
 
 ![Screenshot 2](assets/Distribution_of_sales_and_customer_in_pretrial.png)
 
