@@ -41,6 +41,7 @@ Recommended strategy for user using data analysis
  - Created comprehensive reports informing strategic decisions for the Category Manager, leveraging data analysis skills.
 
 ![Screenshot 2](assets/Distribution_of_sales_and_customer_in_pretrial.png)
+
 Sales distribution during pretrial
 
 # Education
