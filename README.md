@@ -12,6 +12,7 @@ B.Tech Electronics and Communication Engineering | Rajagiri School of Engineerin
 # Hands on Experience
 ## Job Simulation
 I have done job simulations in some top comapnies through Forage:
+
  **Accenture, Data Analytics and Visualization (_June 2024_)**
  - Executed a simulated project advising a hypothetical social media client as a Data Analyst at Accenture.
  - Performed data cleaning, modeling, and analysis on 7 datasets to uncover insights into content trends to inform strategic decisions.
