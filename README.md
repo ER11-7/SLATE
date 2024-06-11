@@ -34,7 +34,7 @@ I have done job simulations in some top comapnies through Forage:
  - Analyzed data in Excel from three carbon mitigation pilot activities to determine which strategy should be expanded across SuperCo's locations.
  - Developed a concise PowerPoint deck for SuperCo outlining the recommended approach.
 
-#### Recommended user strategy for carbon mitigation based on analysis
+Recommended user strategy for carbon mitigation based on analysis
 ![Screenshot 1](assets/Suggested_strategy_for_user.png)
 
  **Quantium, Data Analytics (_June 2024_)**
