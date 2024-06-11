@@ -1,10 +1,21 @@
 # Welcome to my Data Analytics Portfolio
 
 # Hi, I'm Emil Roby!
-I am a data analytics enthusiast with a passion for transforming data into actionable insights. Here you can find some of the projects I've worked on and get to know more about my skills and experience.
+I am a data analytics enthusiast with a passion for transforming data into actionable insights. In this repository, you'll find a collection of my data analysis projects showcasing my skills and expertise in data manipulation, visualization, and interpretation.
 
-## Technical Skills
-Python, SQL, R, Power BI, IBM Cognos Analytics, Google Looker Studio, MATLAB, Alteryx
+## Skills
+**Languages**
+- Python, SQL, R
+
+**Libraries & Tools**
+- Pandas, NumPy, Matplotlib
+- Jupyter Notebook, Power BI
+- IBM Cognos Analytics, Google Looker Studio, Alteryx
+
+**Other Skills**
+- Data Cleaning and Preparation
+- Exploratory Data Analysis
+- Data Visualization
 
 # Education
 B.Tech Electronics and Communication Engineering | Rajagiri School of Engineering and Technology, Kochi (_August 2018- June 2022_)
