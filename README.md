@@ -33,7 +33,7 @@ I have done job simulations in some top comapnies through Forage:
 - Documented business processes and identified opportunities for improvement, communicating findings to relevant stakeholders.
 - Developed a PowerPoint presentation to communicate key ideas and talking points, telling a compelling story through data.
 
-[JP Morgan Mortgage Loan Dashboard](assets/JP_Morgan_Loan_Data_Tableau_Tempplate.png)
+![JP Morgan Mortgage Loan Dashboard](assets/JP_Morgan_Loan_Data_Tableau_Tempplate.png)
 
  **Quantium, Data Analytics (_June 2024_)**
  - Prepared transaction datasets for customer analytics using SQL and data manipulation techniques.
