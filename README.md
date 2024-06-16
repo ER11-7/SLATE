@@ -28,15 +28,12 @@ I have done job simulations in some top comapnies through Forage:
 
 [Accenture Job Simulation final presentation](assets/Task_3_final_presentation.pptx)
 
- **Boston Consulting Group (BCG), Knowledge Team - Client Focus (_June 2024_)**
- - Executed job simulation where I advised a hypothetical supermarket chain on how to achieve net-zero carbon emissions.
- - Analyzed data in Excel from three carbon mitigation pilot activities to determine which strategy should be expanded across SuperCo's locations.
- - Developed a concise PowerPoint deck for SuperCo outlining the recommended approach.
+**JP Morgan & Chase Co. Corporate Analyst Development Program (CADP) (_June 2024_)**
+- Built a visualization dashboard using Tableau to analyze and present data effectively.
+- Documented business processes and identified opportunities for improvement, communicating findings to relevant stakeholders.
+- Developed a PowerPoint presentation to communicate key ideas and talking points, telling a compelling story through data.
 
-[BCG Job Simulation final presentation](assets/Final_Presentation_BCG.pptx)
-
-![Screenshot 1](assets/Suggested_strategy_for_user.png)
-Recommended strategy for user using data analysis
+[JP Morgan Mortgage Loan Dashboard](assets/JP_Morgan_Loan_Data_Tableau_Tempplate)
 
  **Quantium, Data Analytics (_June 2024_)**
  - Prepared transaction datasets for customer analytics using SQL and data manipulation techniques.
