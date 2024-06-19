@@ -8,14 +8,15 @@ A QA Engineer turned data analytics enthusiast, with a passion for transforming 
 - Python, SQL, R
 
 **Libraries & Tools**
-- Pandas, NumPy, Matplotlib
-- Jupyter Notebook, Power BI
+- Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook, Power BI, Tableau
 - IBM Cognos Analytics, Google Looker Studio, Alteryx
 
 **Other Skills**
 - Data Cleaning and Preparation
 - Exploratory Data Analysis
 - Data Visualization
+- Statistical Analysis
 
 # Hands on Experience
 ## Job Simulation
