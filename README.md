@@ -12,16 +12,6 @@ Welcome to my GitHub portfolio! I specialize in leveraging data analytics to dri
 - Power BI | Tableau | IBM Cognos Analytics | Alteryx | Google Looker Studio | MS Excel
 
 # Hands on Experience
-## Job Simulation
-I have done job simulations in some top comapnies through Forage:
-
-**JP Morgan & Chase Co. Corporate Analyst Development Program (CADP) (_June 2024_)**
-- Conducted a detailed analysis on the hypothetical mortgage loan data of JPMorgan to find the age group of borrowers, their credit ratings, and LTV ratios to identify potential stressed assets. Prepared a
-  dashboard in Tableau, revealing that 3% of the assets were stressed.
-- Presented detailed findings and strategic recommendations to senior management, focusing on reducing stressed assets to 0% by understanding and mitigating risk factors. Proposed initiatives to improve loan 
-  portfolio performance and enhance risk management, specifically targeting the expansion of services to areas with 40-50% minority populations.
-
-![JP Morgan Mortgage Loan Dashboard](assets/JP_Morgan_Loan_Data_Tableau_Tempplate.png)
 
 ## Individual Projects
 Here is some examples of the projects that I have done
@@ -33,6 +23,18 @@ Here is some examples of the projects that I have done
 - Analyzed wind speed variations, finding that the highest speeds were in the west and the lowest in the north, indicating pressure variations in these directions.
 - Found strong correlations (~1) between visibility, cloud cover, and precipitation, along with significant air quality issues in many countries, highlighting the urgent need for sustainable development.
 - Discovered a near-perfect correlation (~1) between air quality issues and UV radiation, emphasizing the importance of promoting sustainable finance and a circular economy to address these challenges globally.
+
+
+## Job Simulation
+I have done job simulations in some top comapnies through Forage:
+
+**JP Morgan & Chase Co. Corporate Analyst Development Program (CADP) (_June 2024_)**
+- Conducted a detailed analysis on the hypothetical mortgage loan data of JPMorgan to find the age group of borrowers, their credit ratings, and LTV ratios to identify potential stressed assets. Prepared a
+  dashboard in Tableau, revealing that 3% of the assets were stressed.
+- Presented detailed findings and strategic recommendations to senior management, focusing on reducing stressed assets to 0% by understanding and mitigating risk factors. Proposed initiatives to improve loan 
+  portfolio performance and enhance risk management, specifically targeting the expansion of services to areas with 40-50% minority populations.
+
+![JP Morgan Mortgage Loan Dashboard](assets/JP_Morgan_Loan_Data_Tableau_Tempplate.png)
 
 # Education
 B.Tech Electronics and Communication Engineering | Rajagiri School of Engineering and Technology, Kochi (_August 2018- June 2022_)
