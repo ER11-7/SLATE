@@ -24,6 +24,8 @@ Here is some examples of the projects that I have done
 - Found strong correlations (~1) between visibility, cloud cover, and precipitation, along with significant air quality issues in many countries, highlighting the urgent need for sustainable development.
 - Discovered a near-perfect correlation (~1) between air quality issues and UV radiation, emphasizing the importance of promoting sustainable finance and a circular economy to address these challenges globally.
 
+![Global Weather Analysis Dashboard](assets/Global Weather Analysis 2024.png)
+
 
 ## Job Simulation
 I have done job simulations in some top comapnies through Forage:
