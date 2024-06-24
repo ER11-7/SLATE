@@ -1,57 +1,43 @@
 # Welcome to my Data Analytics Portfolio
 
 # Hi, I'm Emil Roby!
-A QA Engineer turned data analytics enthusiast, with a passion for transforming data into actionable insights. In this repository, you'll find a collection of my data analysis projects showcasing my skills and expertise in data manipulation, visualization, and interpretation.
+🌍📊 Passionate Data Analyst with a focus on ESG and Finance 📈💼
+Welcome to my GitHub portfolio! I specialize in leveraging data analytics to drive insights in the dynamic fields of Environmental, Social, Governance (ESG) criteria and finance.  Let's uncover impactful data-driven solutions together!!!
 
 ## Skills
-**Languages**
-- Python, SQL, R
+**Languages & Libraries**
+- Python (Pandas, NumPy, Seaborn, Matplotlib, ) |  SQL | R (ggplot2, qplot)
 
-**Libraries & Tools**
-- Pandas, NumPy, Matplotlib, Seaborn
-- Jupyter Notebook, Power BI, Tableau
-- IBM Cognos Analytics, Google Looker Studio, Alteryx
-
-**Other Skills**
-- Data Cleaning and Preparation
-- Exploratory Data Analysis
-- Data Visualization
-- Statistical Analysis
+**Visualization Tools**
+- Power BI | Tableau | IBM Cognos Analytics | Alteryx | Google Looker Studio | MS Excel
 
 # Hands on Experience
 ## Job Simulation
 I have done job simulations in some top comapnies through Forage:
 
- **Accenture, Data Analytics and Visualization (_June 2024_)**
- - Executed a simulated project advising a hypothetical social media client as a Data Analyst at Accenture.
- - Performed data cleaning, modeling, and analysis on 7 datasets to uncover insights into content trends to inform strategic decisions.
- - Crafted a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
-
-[Accenture Job Simulation final presentation](assets/Task_3_final_presentation.pptx)
-
 **JP Morgan & Chase Co. Corporate Analyst Development Program (CADP) (_June 2024_)**
-- Built a visualization dashboard using Tableau to analyze and present data effectively.
-- Documented business processes and identified opportunities for improvement, communicating findings to relevant stakeholders.
-- Developed a PowerPoint presentation to communicate key ideas and talking points, telling a compelling story through data.
+- Conducted a detailed analysis on the hypothetical mortgage loan data of JPMorgan to find the age group of borrowers, their credit ratings, and LTV ratios to identify potential stressed assets. Prepared a
+  dashboard in Tableau, revealing that 3% of the assets were stressed.
+- Presented detailed findings and strategic recommendations to senior management, focusing on reducing stressed assets to 0% by understanding and mitigating risk factors. Proposed initiatives to improve loan 
+  portfolio performance and enhance risk management, specifically targeting the expansion of services to areas with 40-50% minority populations.
 
 ![JP Morgan Mortgage Loan Dashboard](assets/JP_Morgan_Loan_Data_Tableau_Tempplate.png)
 
- **Quantium, Data Analytics (_June 2024_)**
- - Prepared transaction datasets for customer analytics using SQL and data manipulation techniques.
- - Generated data-driven commercial recommendations by extracting actionable insights from customer data using Python and R.
- - Identified benchmark stores for A/B testing of trial store layouts.
- - Created comprehensive reports informing strategic decisions for the Category Manager, leveraging data analysis skills.
+## Individual Projects
+Here is some examples of the projects that I have done
 
-[Project Report Pdf](codes/Task2_Quantium_Upliftment_testing.pdf)
-
-![Screenshot 2](assets/Distribution_of_sales_and_customer_in_pretrial.png)
-
-Sales distribution during pretrial
+**Global Weather Analysis for the month of May &  June 2024(_June 2024_)**
+- Conducted a detailed analysis on global weather data for May and June 2024 using Python, focusing on temperature, humidity, wind speed, precipitation, and air quality. Prepared a comprehensive dashboard in Tableau, revealing that average global temperature was 25.6°C.
+- Identified climatic patterns: Southeast Asia and Sub-Saharan Africa experienced extremely high temperatures (30-40°C), while Northern Americas and Australia had significantly lower temperatures.
+- Mapped cyclone proximity by correlating average temperature, pressure, and wind speed, identifying high-risk regions like Japan, Bangladesh, Burundi, and Fiji Islands with pressures well below the global average of 1013 mb.
+- Analyzed wind speed variations, finding that the highest speeds were in the west and the lowest in the north, indicating pressure variations in these directions.
+- Found strong correlations (~1) between visibility, cloud cover, and precipitation, along with significant air quality issues in many countries, highlighting the urgent need for sustainable development.
+- Discovered a near-perfect correlation (~1) between air quality issues and UV radiation, emphasizing the importance of promoting sustainable finance and a circular economy to address these challenges globally.
 
 # Education
 B.Tech Electronics and Communication Engineering | Rajagiri School of Engineering and Technology, Kochi (_August 2018- June 2022_)
 
 # Feel free to reach out to me:
 - 📧 **Email**: [emilroby9@gmail.com](mailto:emilroby9@gmail.com)
-- 🔗 **LinkedIn**: [Emil Roby's LinkedIn](https://www.linkedin.com/in/emil-roby-869798203/)
+- 🔗 **LinkedIn**: [Emil Roby's LinkedIn](https://www.linkedin.com/in/emil-roby-878792314/)
 - 📞 **Phone**: +91 8301826142
