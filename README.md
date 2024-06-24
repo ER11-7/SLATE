@@ -25,7 +25,8 @@ Here is some examples of the projects that I have done
 - Discovered a near-perfect correlation (~1) between air quality issues and UV radiation, emphasizing the importance of promoting sustainable finance and a circular economy to address these challenges globally.
 
 ![Global Weather Analysis Dashboard](assets/Global_Weather_Analysis_2024.png)
--[Python Code](codes/Global_Weather_Analysis_May_June_2024.ipynb)
+[Python Code](codes/Global_Weather_Analysis_May_June_2024.ipynb)
+I have used pyplot library for visualiztion which is under MIT License and the dataset was obtained from Kaggle.
 
 
 ## Job Simulation
