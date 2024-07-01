@@ -1,4 +1,4 @@
-# Welcome to my Data Analytics Portfolio
+![image](https://github.com/ER11-7/informania/assets/47293097/f1669427-2d22-46b0-b046-fbc45cb7f04b)# Welcome to my Data Analytics Portfolio
 
 # Hi, I'm Emil Roby!
 🌍📊 Passionate Data Analyst with a focus on ESG and Finance 📈💼
@@ -28,6 +28,13 @@ I have used pyplot library for visualiztion which is under MIT License and the d
 
 ![Global Weather Analysis Dashboard](assets/Global_Weather_Analysis_2024.png)
 [Python Code](codes/Global_Weather_Analysis_May_June_2024.ipynb)
+
+**World Economic Outlook 2022 from IMF (_June_2024_)**
+- Developed a comprehensive Tableau dashboard presenting the World Economic Outlook of 2022, leveraging data sourced from the IMF.
+- Conducted data cleaning and analysis in Excel to identify fiscal strengths and weaknesses across global economies.
+- Assessed global financial conditions, providing insights into the strengths and weaknesses of key financial players worldwide.
+
+I have used the dataset that is availbale in the IMF website for the analysis.
 
 
 ## Job Simulation
