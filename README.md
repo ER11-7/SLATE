@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I specialize in leveraging data analytics to dri
 
 ## Skills
 **Languages & Libraries**
-- Python (Pandas, NumPy, Seaborn, Matplotlib, ) |  SQL | R (ggplot2, qplot)
+- Python (Pandas, NumPy, Seaborn, Matplotlib, Pyplot, Folium) |  SQL | R (ggplot2, qplot)
 
 **Visualization Tools**
 - Power BI | Tableau | IBM Cognos Analytics | Alteryx | Google Looker Studio | MS Excel
