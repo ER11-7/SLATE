@@ -1,4 +1,4 @@
-![image](https://github.com/ER11-7/informania/assets/47293097/f1669427-2d22-46b0-b046-fbc45cb7f04b)# Welcome to my Data Analytics Portfolio
+# Welcome to my Data Analytics Portfolio
 
 # Hi, I'm Emil Roby!
 🌍📊 Passionate Data Analyst with a focus on ESG and Finance 📈💼
