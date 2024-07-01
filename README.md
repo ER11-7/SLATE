@@ -33,9 +33,11 @@ I have used pyplot library for visualiztion which is under MIT License and the d
 - Developed a comprehensive Tableau dashboard presenting the World Economic Outlook of 2022, leveraging data sourced from the IMF.
 - Conducted data cleaning and analysis in Excel to identify fiscal strengths and weaknesses across global economies.
 - Assessed global financial conditions, providing insights into the strengths and weaknesses of key financial players worldwide.
+- Identified and analyzed financial crises and rising debt burdens affecting countries in Africa, South America, and Southeast Asia.
 
 I have used the dataset that is availbale in the IMF website for the analysis.
 
+![WEO_2022_IMF](assets/WEO_2022_IMF.png)
 
 ## Job Simulation
 I have done job simulations in some top comapnies through Forage:
