@@ -14,7 +14,8 @@ I love diving into complex data to uncover insights that drive transparency and 
 - **📚 Book Reviews**: Check out my favorite reads that inspire my journey.  
 - **💡 Project Highlights**: Discover the projects that fuel my passion for sustainability.  
 
-<img src="assets/istockphoto-1440166179-1024x1024" alt="Description of Image" width="300" />
+<img src="assets/istockphoto-1440166179-1024x1024" alt="Sample Image" width="300" />
+
 ![ESG Image](assets/istockphoto-1440166179-1024x1024.jpg) <!-- Replace with your ESG-related image link -->
 
 ---
