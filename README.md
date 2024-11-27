@@ -14,10 +14,6 @@ I love diving into complex data to uncover insights that drive transparency and 
 - **📚 Book Reviews**: Check out my favorite reads that inspire my journey.  
 - **💡 Project Highlights**: Discover the projects that fuel my passion for sustainability.  
 
-<img src="assets/istockphoto-1440166179-1024x1024" alt="Sample Image" width="300" />
-
-![ESG Image](assets/istockphoto-1440166179-1024x1024.jpg) <!-- Replace with your ESG-related image link -->
-
 ---
 
 ## 📝 Blog – My Thoughts & Discoveries  
@@ -28,7 +24,7 @@ Welcome to my blog—a vibrant tapestry of ideas, insights, and inspirations! He
 - 💡 **Project Learnings**: Chronicles of my experiences.  
 - 🧠 **Personal Reflections**: My musings and suggestions.  
 
-![Blog Image](https://via.placeholder.com/400x200.png?text=Blog+Section) <!-- Replace with your blog-related image link -->
+
 
 ---
 
@@ -41,7 +37,6 @@ I’m well-versed in the following reporting standards, empowering me to navigat
 - **📑 ESRS**: European Sustainability Reporting Standards  
 - **📊 BRSR**: Business Responsibility and Sustainability Report  
 
-![Standards Image](https://via.placeholder.com/400x200.png?text=ESG+Standards) <!-- Replace with your standards-related image link -->
 
 ---
 
@@ -52,7 +47,7 @@ Here's what I bring to the table:
 - **Programming**: Python (for data analysis)  
 - **Reporting**: ESG metrics, sustainability frameworks, financial analysis  
 
-![Skills Image](https://via.placeholder.com/400x200.png?text=Skills) <!-- Replace with your skills-related image link -->
+
 
 ---
 
@@ -60,7 +55,7 @@ Here's what I bring to the table:
 Together, let’s explore the intersections of knowledge, sustainability, and personal growth!  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or follow my journey!
 
-![Connect Image](https://via.placeholder.com/400x200.png?text=Connect+with+Me) <!-- Replace with your connect-related image link -->
+
 
 ---
 
