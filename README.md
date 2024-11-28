@@ -21,7 +21,7 @@ Welcome to my blog—a vibrant tapestry of ideas, insights, and inspirations! He
 
 # Bridging Finance and Sustainability: My Vision for a Greener Tomorrow
 
-![Finance and Sustainability](./codes/download.jpg)
+![Finance and Sustainability](./assets/download.jpeg)
 
 **Introduction**  
 Growing up, I was always fascinated by the power of finance—not just as a tool for wealth creation but as a driver of change. However, it was during my work on analyzing climate change’s impact on industries that I realized the true potential of finance to address the world's most pressing challenges. The intersection of financial decision-making and sustainability sparked a passion that has since guided my career aspirations.
