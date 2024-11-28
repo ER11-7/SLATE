@@ -1,7 +1,7 @@
 # Slate
 _A space where thoughts evolve, ideas grow, and writing finds its form._
 
-![Portfolio Banner](https://via.placeholder.com/800x200.png?text=Your+Portfolio+Banner) <!-- Replace with your banner image link -->
+![Portfolio Banner](./assets/DALL·E 2024-11-28 23.45.49 - A sleek and modern banner design for a personal portfolio page named 'Slate.' The banner should feature a minimalist aesthetic with subtle abstract pa) <!-- Replace with your banner image link -->
 
 ---
 
