@@ -1,7 +1,6 @@
 # Slate
 _A space where thoughts evolve, ideas grow, and writing finds its form._
 
-![Portfolio Banner](./assets/DALL·E 2024-11-28 23.45.49 - A sleek and modern banner design for a personal portfolio page named 'Slate.' The banner should feature a minimalist aesthetic with subtle abstract pa) <!-- Replace with your banner image link -->
 
 ---
 
@@ -54,6 +53,8 @@ What’s your take on the role of finance in shaping a sustainable future? I’d
 
 
 # The Art of Inner Silence: Lessons from *The Almanack of Naval Ravikant*
+
+![The Almanack of Naval Ravikant](./assets/1642917799800.jpg)
 
 I have never really been a fan of self-help books. It’s not that I doubt their effectiveness—they’ve worked for millions—but the generic advice they offer never quite resonates with me. I prefer learning from personal conversations with people who’ve faced situations similar to mine. However, a recommendation from a friend and a sleepless night led me to pick up *The Almanack of Naval Ravikant: A Guide to Wealth and Happiness*. Surprisingly, it left a lasting impression.
 
