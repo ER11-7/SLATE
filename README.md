@@ -105,6 +105,8 @@ Since adopting these practices, I feel more present, less anxious, and surprisin
 
 # Harnessing Technology for Ecology: My Experience with ISRO’s Deep Learning Training
 
+![Tech with ecology](./assets/Integration_of_technology_with_ecology_720x480.png)
+
 In today’s world, where environmental challenges demand innovative solutions, technology plays a pivotal role in reshaping ecological studies. I recently had the privilege of participating in the **Deep Learning in Ecological Studies** online training program offered by the **Indian Space Research Organisation (ISRO)** through its **Indian Institute of Remote Sensing (IIRS)**. This free training and certification initiative reflects ISRO’s commitment to fostering learning and equipping individuals with cutting-edge tools to address real-world challenges.
 
 ## The Opportunity
