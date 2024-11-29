@@ -2,7 +2,7 @@
 _A space where thoughts evolve, ideas grow, and writing finds its form._
 
 
-![portfolio logo](./assets/Slate_logo_resized_960x630)
+![portfolio logo](./assets/Slate_logo_resized_960x630.png)
 
 ---
 
