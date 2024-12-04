@@ -169,6 +169,7 @@ I’m glad you’re here! I hope this space provides you with fresh perspectives
 ---
 
 # Feel free to reach out to me:
+This portfolio isn’t just about me—it’s about building connections and driving change together.
 - 📧 **Email**: [emilroby9@gmail.com](mailto:emilroby9@gmail.com)
 - 🔗 **LinkedIn**: [Emil Roby's LinkedIn](https://www.linkedin.com/in/emil-roby-878792314/)
 - 📞 **Phone**: +91 8301826142
