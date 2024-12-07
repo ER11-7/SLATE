@@ -23,6 +23,8 @@ Welcome to my blog—a vibrant tapestry of ideas, insights, and inspirations! He
 
 # Persistence, Progress, and the Path to Gunvatta Gurukul  
 
+![Doodle](./assets/Motivational_Doodle.png)
+
 I am ecstatic to share that I’ve been selected for the prestigious **Gunvatta Gurukul Program by QCI**—a dream that has become a reality after an incredible journey of perseverance and growth.  
 
 For the past 1.5 years, I’ve been navigating the challenges of switching to my desired domain, combining my passion for **ESG, finance, and sustainability** with consistent upskilling. The path was far from smooth: countless exams, interviews, and rejections seemed to question my abilities. Yet, each stumble was a stepping stone—an opportunity to analyze, adapt, and grow.  
