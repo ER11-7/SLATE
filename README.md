@@ -21,6 +21,38 @@ This blog is my space where thoughts evolve, ideas grow, and stories take shape.
 ## 📝 Blog – My Thoughts & Discoveries  
 Welcome to my blog—a vibrant tapestry of ideas, insights, and inspirations! Here, I dive into a variety of topics that spark my curiosity and ignite my passion for sustainability and beyond. Expect to find:  
 
+# Persistence, Progress, and the Path to Gunvatta Gurukul  
+
+I am ecstatic to share that I’ve been selected for the prestigious **Gunvatta Gurukul Program by QCI**—a dream that has become a reality after an incredible journey of perseverance and growth.  
+
+For the past 1.5 years, I’ve been navigating the challenges of switching to my desired domain, combining my passion for **ESG, finance, and sustainability** with consistent upskilling. The path was far from smooth: countless exams, interviews, and rejections seemed to question my abilities. Yet, each stumble was a stepping stone—an opportunity to analyze, adapt, and grow.  
+
+### The Power of Consistency  
+
+If there’s one thing I’ve learned, it’s this: **consistency is the key**. When results seemed elusive, I reminded myself to focus on the **process, not the outcome**. Every day became an opportunity to learn something new, improve by even 1%, and add another layer to my skillset.  
+
+Whether it was delving into ESG frameworks, brushing up on financial analytics, or mastering reporting standards like TCFD and BRSR, I stayed committed to progress. It wasn’t about monumental leaps but about taking steady, intentional steps toward my goals.  
+
+### A Message to Dreamers  
+
+To anyone on a similar journey: **don’t let failure discourage you**. Rejections are not the end—they’re feedback. Use them to refine your strategy, upskill, and evolve. When things feel overwhelming, remind yourself: it’s not about perfection but persistence.  
+
+Celebrate your small wins, keep your vision clear, and trust that with hard work and dedication, the right opportunity will come knocking.  
+
+### Looking Ahead  
+
+The **Gunvatta Gurukul Program** is more than just an achievement—it’s a launchpad to bring my ideas and passion to life. I’m excited to work alongside brilliant minds, contribute meaningfully, and continue my journey in the sustainability and ESG space.  
+
+This is just the beginning, and I can’t wait to see what the future holds.  
+
+---
+
+To everyone striving to make their dreams a reality: **stay consistent, stay curious, and never stop pushing forward.** Your time will come—just like mine did!  
+
+🌟 Let’s inspire, connect, and grow together.  
+
+
+
 # Bridging Finance and Sustainability: My Vision for a Greener Tomorrow
 
 ![Finance and Sustainability](./assets/Fin_sus.jpg)
