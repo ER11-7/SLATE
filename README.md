@@ -23,6 +23,8 @@ Welcome to my blog—a vibrant tapestry of ideas, insights, and inspirations! He
 
 # Leveraging the FXB Climate Advocates Program: My Journey Toward Sustainable Development in India 🌱
 
+![logo](./assets/FXBClimateAdvocatesProgram.jpeg)
+
 ## 📜 A New Chapter Begins
 
 I am thrilled to share that I have been officially accepted into the **Spring 2025 cohort of the FXB Climate Advocates program**! This global initiative, spearheaded by FXB USA, empowers young advocates like me to tackle the climate crisis and create impactful, sustainable solutions. Being part of a program that has trained over 2,500 youth from 100+ countries and supported the launch of 500+ climate action projects is both humbling and inspiring.
